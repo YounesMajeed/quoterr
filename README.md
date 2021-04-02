@@ -1,9 +1,9 @@
 # quoterr
-Random Quote Generator
+###Random Quote Generator
 
 This is my first project working with fetch() in JS
 
-Really thankful to this free github API https://github.com/lukePeavey/quotable .
+Really thankful to this free github API [](https://github.com/lukePeavey/quotable)
 
 Here you can check a preview:
-<link> https://younesmajeed.github.io/quoterr<link>
+[Preview](https://younesmajeed.github.io/quoterr)
